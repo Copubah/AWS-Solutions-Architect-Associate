@@ -10,7 +10,8 @@
 
 
 ## AWS Services
-- Route53:a scalable and reliable Domain Name Sysyem(DNS) which provides a cost effective way to route end users to internet applications by resolving DNS names to IP addresses for example,(www.example.com) into numeric IP addresses such as 192.0.2.1
+ ## Route53
+- A scalable and reliable Domain Name Sysyem(DNS) which provides a cost effective way to route end users to internet applications by resolving DNS names to IP addresses for example,(www.example.com) into numeric IP addresses such as 192.0.2.1
 
 ## Key features
 1. Domain registration:it allows you to register new domain names or transfer existing ones
